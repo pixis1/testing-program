@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\testing_program\testing_program\bin\Debug\net6.0-windows\testing_program.exe
+C:\Users\User\source\repos\testing_program\testing_program\bin\Debug\net6.0-windows\testing_program.deps.json
+C:\Users\User\source\repos\testing_program\testing_program\bin\Debug\net6.0-windows\testing_program.runtimeconfig.json
+C:\Users\User\source\repos\testing_program\testing_program\bin\Debug\net6.0-windows\testing_program.dll
+C:\Users\User\source\repos\testing_program\testing_program\bin\Debug\net6.0-windows\testing_program.pdb
+C:\Users\User\source\repos\testing_program\testing_program\obj\Debug\net6.0-windows\testing_program.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\testing_program\testing_program\obj\Debug\net6.0-windows\testing_program.Form1.resources
+C:\Users\User\source\repos\testing_program\testing_program\obj\Debug\net6.0-windows\testing_program.csproj.GenerateResource.cache
+C:\Users\User\source\repos\testing_program\testing_program\obj\Debug\net6.0-windows\testing_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\testing_program\testing_program\obj\Debug\net6.0-windows\testing_program.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\testing_program\testing_program\obj\Debug\net6.0-windows\testing_program.AssemblyInfo.cs
+C:\Users\User\source\repos\testing_program\testing_program\obj\Debug\net6.0-windows\testing_program.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\testing_program\testing_program\obj\Debug\net6.0-windows\testing_program.dll
+C:\Users\User\source\repos\testing_program\testing_program\obj\Debug\net6.0-windows\refint\testing_program.dll
+C:\Users\User\source\repos\testing_program\testing_program\obj\Debug\net6.0-windows\testing_program.pdb
+C:\Users\User\source\repos\testing_program\testing_program\obj\Debug\net6.0-windows\testing_program.genruntimeconfig.cache
+C:\Users\User\source\repos\testing_program\testing_program\obj\Debug\net6.0-windows\ref\testing_program.dll
